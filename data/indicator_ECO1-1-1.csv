@@ -1,7 +1,133 @@
-Year,Units,Series,Value
-2012,Percent,31110,1.4
-2013,Percent,31110,1.5
-2014,Percent,31110,0.8
-2015,Percent,31110,2.5
-2016,Percent,31110,0.9
-2017,Percent,31110,3.1
+Province ,Area Council,Sex,Value
+Torba,torres,Female,517
+Torba,ureparapara,Female,217
+Torba,motalava,Female,868
+Torba,vanua lava,Female,1525
+Torba,mota,Female,320
+Torba,gaua,Female,1252
+Torba,merelava,Female,309
+Sanma,north west santo,Female,853
+Sanma,north santo,Female,2275
+Sanma,west santo,Female,1536
+Sanma,south santo,Female,4071
+Sanma,east santo,Female,2303
+Sanma,south east santo,Female,2870
+Sanma,canal - fanafo,Female,2298
+Sanma,luganville,Female,7968
+Sanma,west malo,Female,1145
+Sanma,east malo,Female,964
+Penama,west ambae,Female,1945
+Penama,north ambae,Female,1979
+Penama,east ambae,Female,1019
+Penama,south ambae,Female,734
+Penama,north maewo,Female,1146
+Penama,south maewo,Female,641
+Penama,north pentecost,Female,2844
+Penama,central pentecost 1,Female,1290
+Penama,central pentecost 2,Female,1970
+Penama,south pentecost,Female,2417
+Malampa,north west malekula,Female,2699
+Malampa,north east malekula,Female,3548
+Malampa,central malekula,Female,3141
+Malampa,south west malekula,Female,1708
+Malampa,south east malekula,Female,2483
+Malampa,south malekula,Female,1973
+Malampa,north ambrym,Female,1627
+Malampa,west ambrym,Female,1449
+Malampa,south east ambrym,Female,758
+Malampa,paama,Female,853
+Shefa,vermali,Female,1068
+Shefa,vermaul,Female,736
+Shefa,varisu,Female,802
+Shefa,south epi,Female,688
+Shefa,north tongoa,Female,853
+Shefa,tongariki,Female,468
+Shefa,makimae,Female,584
+Shefa,nguna,Female,864
+Shefa,emau,Female,341
+Shefa,malorua,Female,1388
+Shefa,north efate,Female,1504
+Shefa,mele,Female,2389
+Shefa,port vila,Female,25275
+Shefa,ifira,Female,604
+Shefa,pango,Female,1198
+Shefa,erakor,Female,4427
+Shefa,eratap,Female,3184
+Shefa,eton,Female,1688
+Tafea,north erromango,Female,735
+Tafea,south erromango,Female,319
+Tafea,aniwa,Female,220
+Tafea,north tanna,Female,2140
+Tafea,west tanna,Female,4312
+Tafea,middle bush tanna,Female,3006
+Tafea,south west tanna,Female,2830
+Tafea,whitesands,Female,3381
+Tafea,south tanna,Female,662
+Tafea,futuna,Female,325
+Tafea,aneityum,Female,688
+Torba,torres,Male,505
+Torba,ureparapara,Male,239
+Torba,motalava,Male,810
+Torba,vanua lava,Male,1634
+Torba,mota,Male,362
+Torba,gaua,Male,1324
+Torba,merelava,Male,279
+Sanma,north west santo,Male,844
+Sanma,north santo,Male,2472
+Sanma,west santo,Male,1536
+Sanma,south santo,Male,4363
+Sanma,east santo,Male,2382
+Sanma,south east santo,Male,3086
+Sanma,canal - fanafo,Male,2618
+Sanma,luganville,Male,8344
+Sanma,west malo,Male,1208
+Sanma,east malo,Male,1048
+Penama,west ambae,Male,2039
+Penama,north ambae,Male,1944
+Penama,east ambae,Male,1227
+Penama,south ambae,Male,783
+Penama,north maewo,Male,1216
+Penama,south maewo,Male,660
+Penama,north pentecost,Male,3079
+Penama,central pentecost 1,Male,1357
+Penama,central pentecost 2,Male,1892
+Penama,south pentecost,Male,2352
+Malampa,north west malekula,Male,2816
+Malampa,north east malekula,Male,3614
+Malampa,central malekula,Male,3125
+Malampa,south west malekula,Male,1858
+Malampa,south east malekula,Male,2657
+Malampa,south malekula,Male,1934
+Malampa,north ambrym,Male,1529
+Malampa,west ambrym,Male,1495
+Malampa,south east ambrym,Male,794
+Malampa,paama,Male,867
+Shefa,vermali,Male,1012
+Shefa,vermaul,Male,725
+Shefa,varisu,Male,816
+Shefa,south epi,Male,761
+Shefa,north tongoa,Male,835
+Shefa,tongariki,Male,519
+Shefa,makimae,Male,623
+Shefa,nguna,Male,864
+Shefa,emau,Male,344
+Shefa,malorua,Male,1528
+Shefa,north efate,Male,1483
+Shefa,mele,Male,2349
+Shefa,port vila,Male,26162
+Shefa,ifira,Male,582
+Shefa,pango,Male,1161
+Shefa,erakor,Male,4491
+Shefa,eratap,Male,3456
+Shefa,eton,Male,1830
+Tafea,north erromango,Male,756
+Tafea,south erromango,Male,299
+Tafea,aniwa,Male,200
+Tafea,north tanna,Male,2046
+Tafea,west tanna,Male,4255
+Tafea,middle bush tanna,Male,3001
+Tafea,south west tanna,Male,2763
+Tafea,whitesands,Male,3361
+Tafea,south tanna,Male,670
+Tafea,futuna,Male,336
+Tafea,aneityum,Male,745
